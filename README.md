@@ -1,6 +1,6 @@
-# ZombsRoyale.io Archive
+# ZombsRoyale.io Windows Archive
 
-Community-maintained by the **xor & pray** group archive of installations of legacy [Zombs Royale](https://zombsroyale.io/) client versions.
+Community-maintained by the **xor & pray** group archive of installations of legacy [Zombs Royale](https://zombsroyale.io/) Windows versions.
 
 ## Download links for v4
 
