@@ -50,5 +50,6 @@ Community-maintained by the **xor & pray** group archive of installations of leg
 [`v5.9.1`](https://github.com/zombsroyaleio/archive/releases/download/v5.9.1/ZombsRoyaleio_v5.9.1.zip)
 [`v5.9.2`](https://github.com/zombsroyaleio/archive/releases/download/v5.9.2/ZombsRoyaleio_v5.9.2.zip)
 [`v5.9.9`](https://github.com/zombsroyaleio/archive/releases/download/v5.9.9/ZombsRoyaleio_v5.9.9.zip)
+[`v6.0.0`](https://github.com/zombsroyaleio/archive/releases/download/v6.0.0/ZombsRoyaleio_v6.0.0.zip)
 
 \* _Silent Update_
