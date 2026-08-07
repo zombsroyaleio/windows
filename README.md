@@ -2,6 +2,10 @@
 
 Community-maintained by the **xor & pray** group archive of installations of legacy [Zombs Royale](https://zombsroyale.io/) Windows versions.
 
+> [!NOTE]
+> Unlike the [Android](https://github.com/zombsroyaleio/android) and [iOS](https://github.com/zombsroyaleio/ios) archives, these versions were archived manually, so only a few are available.
+> Many of the older Windows releases are believed to have been lost over time.
+
 ## Download links for v4
 
 [`v4.2.0`](https://github.com/zombsroyaleio/archive/releases/download/v4.2.0/ZombsRoyaleio_v4.2.0.zip)
