@@ -5,6 +5,7 @@ Community-maintained by the **xor & pray** group archive of installations of leg
 > [!NOTE]
 > Unlike the [Android](https://github.com/zombsroyaleio/android) and [iOS](https://github.com/zombsroyaleio/ios) archives, these versions were archived manually, so only a few are available.
 > Many of the older Windows releases are believed to have been lost over time.
+> The _Release Dates_ in this archive are estimated and may not be accurate.
 
 ## Download links for v4
 
